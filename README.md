@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Febin Johnson
 - 👀 I’m interested in Full Stack Development, UX/UI Design and development
-- 🌱 I’m currently learning Flutter
+- 🌱 Flutter Developer
 - 💞️ I’m looking to collaborate on Web, Mobile, Design and developement
 - 📫 How to reach me febinnj1996@gmail.com
 
